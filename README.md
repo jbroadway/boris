@@ -1,4 +1,8 @@
-# Using Boris REPL with Elefant CMS
+# Boris REPL for the Elefant CMS
+
+This is a simple app that adds the [Boris REPL](https://github.com/borisrepl/boris)
+(read-eval-print-loop) to the [Elefant CMS](https://www.elefantcms.com/) for
+experimenting with PHP code in the terminal in an interactive way.
 
 > Note: Boris requires PHP's [pcntl](http://ca1.php.net/pcntl) extension.
 
